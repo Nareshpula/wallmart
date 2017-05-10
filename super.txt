@@ -2,4 +2,8 @@ i am created by the new file called super.txt
 is has to maintined by the implenting purpose.
 they can easy to handle by the this file.
 some funcions to pay the average of the maximum file.
-ZZZ =520.
+
+
+
+ZZZ= 1520.
+>>>>>>> futurebranch
